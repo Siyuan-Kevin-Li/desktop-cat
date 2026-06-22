@@ -1,0 +1,10 @@
+{
+  "distraction_threshold": 10,
+  "eat_size": 100,
+  "move_size": 150,
+  "move_speed": 3,
+  "pause_probability": 0.3,
+  "pause_duration": 2,
+  "sound_on_pause": true,
+  "sound_pause_file": "bgm.wav"
+}
